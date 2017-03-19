@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="leveldb"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/robi/Code/c/leveldb/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/robi/Code/c/leveldb/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/robi/Code/c/leveldb/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leveldb">
+				<Option output="/Users/robi/Code/c/leveldb/cmake-build-debug/leveldb" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/robi/Code/c/leveldb/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/robi/Code/c/leveldb"/>
+					<Add directory="/Users/robi/Code/c/leveldb/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 leveldb"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leveldb/fast">
+				<Option output="/Users/robi/Code/c/leveldb/cmake-build-debug/leveldb" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/robi/Code/c/leveldb/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/robi/Code/c/leveldb"/>
+					<Add directory="/Users/robi/Code/c/leveldb/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 leveldb/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/robi/Code/c/leveldb/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/builder.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/builder.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/c.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/db_impl.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/db_impl.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/db_iter.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/db_iter.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/dbformat.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/dbformat.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/dumpfile.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/filename.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/filename.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/leveldbutil.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/log_format.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/log_reader.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/log_reader.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/log_writer.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/log_writer.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/memtable.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/memtable.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/repair.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/skiplist.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/snapshot.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/table_cache.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/table_cache.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/version_edit.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/version_edit.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/version_set.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/version_set.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/write_batch.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/db/write_batch_internal.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/include/leveldb/c.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/include/leveldb/cache.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/include/leveldb/comparator.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/include/leveldb/db.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/include/leveldb/dumpfile.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/include/leveldb/env.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/include/leveldb/filter_policy.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/include/leveldb/iterator.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/include/leveldb/options.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/include/leveldb/slice.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/include/leveldb/status.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/include/leveldb/table.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/include/leveldb/table_builder.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/include/leveldb/write_batch.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/main.cpp">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/main.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/port/atomic_pointer.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/port/port.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/port/port_example.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/port/port_posix.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/port/port_posix.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/port/thread_annotations.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/table/block.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/table/block.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/table/block_builder.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/table/block_builder.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/table/filter_block.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/table/filter_block.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/table/format.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/table/format.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/table/iterator.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/table/iterator_wrapper.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/table/merger.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/table/merger.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/table/table.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/table/table_builder.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/table/two_level_iterator.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/table/two_level_iterator.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/arena.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/arena.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/bloom.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/cache.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/coding.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/coding.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/comparator.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/crc32c.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/crc32c.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/env.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/env_posix.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/filter_policy.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/hash.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/hash.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/histogram.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/histogram.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/logging.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/logging.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/mutexlock.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/options.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/posix_logger.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/random.h">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/util/status.cc">
+			<Option target="leveldb"/>
+		</Unit>
+		<Unit filename="/Users/robi/Code/c/leveldb/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

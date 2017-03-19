@@ -1,0 +1,3 @@
+/code/c/leveldb/build/CMakeFiles/edit_cache.dir
+/code/c/leveldb/build/CMakeFiles/rebuild_cache.dir
+/code/c/leveldb/build/CMakeFiles/leveldb.dir
